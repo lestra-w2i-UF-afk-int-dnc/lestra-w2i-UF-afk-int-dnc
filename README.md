@@ -74,7 +74,7 @@
 
 <div id="header" align="center">
  <img src="https://media.tenor.com/2_VovstsoFMAAAA1/blinkies-blinkie.webp" width="300"/> 
- <img src="https://media.tenor.com/Xl1ZS2iqjqkAAAA1/lgbtq-lgbt.webp" width="300"/> 
+ <img src="https://blinkies.crd.co/assets/images/gallery20/f935cb05_original.gif?v=f551d29f" width="300"/> 
 </div>
 
 <div id="header" align="center">
@@ -122,6 +122,32 @@
 <img src="https://64.media.tumblr.com/43e429c809a81f19e3ace4632b8f3be4/2f91238a0769eaf8-44/s250x250_c1/5c6a99201c948650530d27dbf32d69a7eb6ed601.gifv" width="90"/>
 <img src="https://64.media.tumblr.com/9b70d4ea5ec01dc4404e2122fb15af4e/056510b51ee3ff6f-8b/s250x250_c1/56679c2241b11d3da635581f2d5b64de676099ee.pnj" width="90"/>
 <img src="https://64.media.tumblr.com/1fb4b3cd8d8093fc8bcf2037316edceb/4591e8ec233f5705-e1/s250x250_c1/59373af6d176885acd6c039214ade9f6154c2300.pnj" width="90"/>
+</div>
+
+<div id="header" align="center">
+ <img src="https://blinkies.crd.co/assets/images/gallery03/39569cdd_original.gif?v=f551d29f" width="300"/> 
+ <img src="https://blinkies.cafe/b/display/0206-nyancat.gif" width="300"/> 
+</div>
+
+<div id="header" align="center">
+<img src="https://media1.tenor.com/m/Y6g52z6ZUO8AAAAC/lis-lis2.gif" width="90"/> 
+<img src="https://media1.tenor.com/m/_HaIKleGycYAAAAC/my-sister%27s-message-stamp.gif" width="90"/> 
+<img src="https://media1.tenor.com/m/4MecGywjkEMAAAAC/red-black.gif" width="90"/> 
+<img src="https://media1.tenor.com/m/FT5voRYTu8YAAAAd/jayvik-jayvik-mexico.gif" width="90"/> 
+<img src="https://media.tenor.com/BaBtrdYHTmEAAAAi/stamp.gif" width="90"/> 
+<img src="https://media1.tenor.com/m/Fi-c5IpCFjsAAAAd/daniel-diaz-lis2.gif" width="90"/>
+<img src="https://media1.tenor.com/m/bJzZM7iNoUcAAAAC/life-is-strange-chloe-price.gif" width="90"/>
+<img src="https://media1.tenor.com/m/EmnkbYXe1LQAAAAC/kirby-kirby-dance.gif" width="90"/>
+<img src="https://media.tenor.com/P5SPEGG43uwAAAAi/anime.gif" width="90"/>
+<img src="https://media1.tenor.com/m/8DcyZpmysLoAAAAC/sematary-my-reaper-sematary.gif" width="90"/>
+<img src="https://media.tenor.com/9NykWjDQMUUAAAAi/mitski-stamp.gif" width="90"/>
+<img src="https://media1.tenor.com/m/INsg9cIMtUwAAAAC/lis-lis2.gif" width="90"/>
+<img src="https://media.tenor.com/AOOjQE4KhW0AAAAi/faith-ftut.gif" width="90"/>
+<img src="https://media1.tenor.com/m/NbB_b96QL9YAAAAd/roblox.gif" width="90"/>
+<img src="https://media1.tenor.com/m/O7iWAPVow88AAAAC/hotlinemiami-hotline.gif" width="90"/>
+<img src="https://media1.tenor.com/m/j_j52--BXGQAAAAC/adventure-time-fin.gif" width="90"/>
+<img src="https://media1.tenor.com/m/4wy3je9ujJIAAAAC/life-is.gif" width="90"/>
+<img src="https://media1.tenor.com/m/buWHy2jZQmMAAAAC/life-is-strange-life-is-strange2.gif" width="90" />
 </div>
 
 <div id="header" align="center">
